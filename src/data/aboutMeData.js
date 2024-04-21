@@ -1,10 +1,10 @@
 export const aboutMeData = [
-	{
-		id: 1,
-		bio: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
-	},
-	{
-		id: 2,
-		bio: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
-	},
+  {
+    id: 1,
+    bio: "Hello, My name is Vineet Vashist. I am a UI developer and UI/UX Designer. I am having 1.5 years of experience crafting user-friendly web and app designs that are both visually stunning and functionally seamless. I'm highly proficient in the core technologies like HTML, CSS, JavaScript, React Native, ReactJs and a strong understanding of UI/UX design principles and tools like Figma, InVision, Canva, Sketch, Wireframing, User Research",
+  },
+  {
+	id: 2,
+	bio: "I've designed and developed engaging websites and mobile applications for various company projects. I enjoy the collaborative process of translating client needs into user-centric solutions, utilizing my expertise in building responsive layouts.",
+},
 ];

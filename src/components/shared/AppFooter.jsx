@@ -5,33 +5,25 @@ import {
 	FiGlobe,
 	FiYoutube,
 } from 'react-icons/fi';
+import { FaBehance } from "react-icons/fa";
+
 import AppFooterCopyright from './AppFooterCopyright';
 
 const socialLinks = [
 	{
 		id: 1,
-		icon: <FiGlobe />,
-		url: 'https://www.stoman.me/',
+		icon: <FiLinkedin />,
+		url: 'https://www.linkedin.com/in/vineet-vashist-b1862921b/',
 	},
 	{
 		id: 2,
 		icon: <FiGithub />,
-		url: 'https://github.com/realstoman',
+		url: 'https://github.com/1910991147',
 	},
 	{
 		id: 3,
-		icon: <FiTwitter />,
-		url: 'https://twitter.com/realstoman',
-	},
-	{
-		id: 4,
-		icon: <FiLinkedin />,
-		url: 'https://www.linkedin.com/in/realstoman',
-	},
-	{
-		id: 5,
-		icon: <FiYoutube />,
-		url: 'https://www.youtube.com/c/realstoman',
+		icon: <FaBehance />,
+		url: 'https://www.behance.net/vineetvashist1/',
 	},
 ];
 

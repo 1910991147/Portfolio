@@ -1,51 +1,51 @@
 // Import images
-import WebImage1 from '../images/web-project-1.jpg';
-import WebImage2 from '../images/web-project-2.jpg';
-import MobileImage1 from '../images/mobile-project-1.jpg';
+// import WebImage1 from '../images/web-project-1.jpg';
+import NikeWebsite from '../images/Nike_Website.png';
+import AirPods from '../images/Apple_site2.png';
 import MobileImage2 from '../images/mobile-project-2.jpg';
-import UIImage1 from '../images/ui-project-1.jpg';
-import UIImage2 from '../images/ui-project-2.jpg';
+import SwingPro from '../images/Golf_CaseStudy.png';
+import MobiPay from '../images/MobiPay.png';
 
 export const projectsData = [
 	{
 		id: 1,
-		title: 'Google Health Platform',
-		category: 'Web Application',
-		img: WebImage2,
+		title: 'SwingPro',
+		category: 'UI/UX Design',
+		img: SwingPro,
 		ProjectHeader: {
-			title: 'Project Management UI - From Context',
+			title: 'SwingPro - Golf Swing Improvement App',
 			publishDate: 'Jul 26, 2021',
-			tags: 'UI / Frontend',
+			tags: 'UI/UX',
 		},
 	},
 	{
 		id: 2,
-		title: 'Phoenix Digital Agency',
-		category: 'Mobile Application',
-		img: MobileImage2,
+		title: 'MobiPay',
+		category: 'UI/UX Design',
+		img: MobiPay,
 	},
 	{
 		id: 3,
-		title: 'Project Management UI',
+		title: 'Airpods MAX',
 		category: 'UI/UX Design',
-		img: UIImage1,
+		img: AirPods,
 	},
 	{
 		id: 4,
-		title: 'Cloud Storage Platform',
+		title: 'Nike Landing Page',
 		category: 'UI/UX Design',
-		img: UIImage2,
+		img: NikeWebsite,
 	},
-	{
-		id: 5,
-		title: 'React Social App',
-		category: 'Mobile Application',
-		img: MobileImage1,
-	},
-	{
-		id: 6,
-		title: 'Apple Design System',
-		category: 'Web Application',
-		img: WebImage1,
-	},
+	// {
+	// 	id: 5,
+	// 	title: 'React Social App',
+	// 	category: 'Mobile Application',
+	// 	img: AirPods,
+	// },
+	// {
+	// 	id: 6,
+	// 	title: 'Apple Design System',
+	// 	category: 'Web Application',
+	// 	img: AirPods,
+	// },
 ];
