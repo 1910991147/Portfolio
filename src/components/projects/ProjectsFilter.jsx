@@ -12,7 +12,7 @@ const ProjectsFilter = ({ setSelectProject }) => {
 				setSelectProject(e.target.value);
 			}}
 			className="font-general-medium 
-                px-4
+                
                 sm:px-6
                 py-2
                 border
@@ -28,13 +28,13 @@ const ProjectsFilter = ({ setSelectProject }) => {
             "
 		>
 			<option value={setSelectProject} className="text-sm sm:text-md">
-				All Projects
+				Projects
 			</option>
-
 			{selectOptions.map((option) => (
 				<option className="text-normal sm:text-md" key={option}>
 					{option}
 				</option>
+
 			))}
 		</select>
 	);
